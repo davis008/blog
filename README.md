@@ -10,3 +10,5 @@
 
 2.Executing a query in GraphQL and how the queries result to data 
 ![image](https://user-images.githubusercontent.com/13285377/113506310-b617d380-954c-11eb-898b-3d6d5f33e379.png)
+
+3. Querying data with graphQL in Layout.js component
